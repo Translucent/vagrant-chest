@@ -1,5 +1,10 @@
 # Vagrant Chest
-An easy-to-use Vagrant Box repository server that runs on your private (company) network.
+An easy-to-use Vagrant Box repository server that runs on your private (organisational) network.
+
+Constituted by just a single binary file, deployment and maintenance of the repository server is quick and simple.
+
+# NABC Breakdown
+For those interested, the following constitutes an NABC-based breakdown of the motivation for building Vagrant Chest, inspired by the [NABC method](http://www.sri.com/engage/innovation-programs/five-disciplines-innovation) pioneered by Stanford Research Institute (SRI).
 
 ### Need
 Vagrant is excellent for building reproducible _Virtualized Development Environments_ (VDEs) containing all the applications, compilers and libraries etc. needed for coding, building and testing software for specific software stacks. 
