@@ -3,6 +3,14 @@ An easy-to-use Vagrant Box repository server that runs on your private (organisa
 
 Constituted by just a single binary file, deployment and maintenance of the repository server is quick and simple.
 
+__Note that Vagrant Chest is currently undergoing development towards the first release.__
+
+# Dependencies
+- A modern Linux or Windows server on which to run Vagrant Chest
+- Holes punched through the firewall to the server on ports 80 and 443 
+- A web browser for browsing the user interface from client workstations
+- Vagrant on your client workstations for interacting with the repository server
+
 # NABC Breakdown
 For those interested, the following constitutes an NABC-based breakdown of the motivation for building Vagrant Chest, inspired by the [NABC method](http://www.sri.com/engage/innovation-programs/five-disciplines-innovation) pioneered by Stanford Research Institute (SRI).
 
