@@ -27,7 +27,7 @@ We'll develop a Vagrant Box repository server, called Vagrant Chest, that makes 
 We'll develop the repository server using the Go language to be able to build a single binary application that can easily be deployed across operating systems, making it dead-easy for Ops to get the thing up and running, and to keep it running with little ongoing maintenance.
 
 ### Benefit
-Vagrant Chest will make Vagrant and the concept of VDEs more appealing and usable for organisations who (for privacy and/or performance reasons) prefer to host their VDEs in-house. Making such more appealing and usable could 
+Vagrant Chest will make Vagrant and the concept of VDEs more appealing and usable for organisations who (for privacy and/or performance reasons) prefer to host their VDEs in-house. Making such more appealing and usable could heighten adoption of Vagrant and the VDE concept. This could, in turn, help spread the good news of Continuous Delivery (CD) and DevOps to more organisations, in turn making developers, ops people, yes, even BOFHs and their bosses, more happy, in turn making the world a slightly better place. Wow!
 
 ### Competition
 - [Vagrant Atlas](https://atlas.hashicorp.com/): A cloud-based catalog/repository server
